@@ -8,3 +8,9 @@
  * @since 18 mars 2019
  */
 
+namespace Test\Tools;
+
+class Test {
+    
+}
+
