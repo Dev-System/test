@@ -1,0 +1,22 @@
+{
+    "version": "1.0.1",
+    "name": "Stef06410/test",
+    "description": "Framework EasyD",
+    "license": "Private",
+    "keywords": [
+    ],
+    "authors": [
+        {
+            "name": "Stephane Rame",
+            "email": "stephane.rame@dev-system.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0"
+    },    
+    "autoload": {
+        "psr-4": {
+            "App\\": "App"
+        }
+    }
+}
